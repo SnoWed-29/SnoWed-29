@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Haitham Dihaji
-- 👀 I’m interested in Backend Development (PHP Laravel, NodeJS )
-- 🌱 I’m currently learning NodeJs
-- 💞️ I’m looking to collaborate on Laravel projects
+- 👋 Hi, I’m Haitham From Casablanca, Morocco
+- 👀 I’m interested in Full Stack Development (PHP Laravel, NodeJS )
+- 🌱 I’m currently learning NextJS
+- 💞️ I’m looking to collaborate on Laravel/NextJs projects
 - 📫 How to reach me Linkedin : Haitham Dihaji
 
 <!---
