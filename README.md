@@ -24,4 +24,9 @@ I am an emerging web developer with a year of experience in the industry. I am p
 <p align="left"> <a href="https://www.github.com//SnoWed-29" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/haitham-dihaji-7515b1225" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
 
 ### Badges
+<div style="display: flex;flex-direction: row" >
+
+  <a href="https://app.daily.dev/haithamdihaji"><img src="https://api.daily.dev/devcards/v2/fSAxGGjUMbXoagFqdOhid.png?type=default&r=glp" width="356" alt="Haitham Dihaji's Dev Card"/></a>
+  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=snowed-29&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+</div>
