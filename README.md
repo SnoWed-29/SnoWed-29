@@ -26,7 +26,6 @@ I am an emerging web developer with a year of experience in the industry. I am p
 ### Badges
 <div style="display: flex;flex-direction: row" >
 
-  <a href="https://app.daily.dev/haithamdihaji"><img src="https://api.daily.dev/devcards/v2/fSAxGGjUMbXoagFqdOhid.png?type=default&r=glp" width="356" alt="Haitham Dihaji's Dev Card"/></a>
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=snowed-29&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 </div>
