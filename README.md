@@ -9,7 +9,7 @@ I am an emerging web developer with a year of experience in the industry. I am p
 * 🌍  I'm based in Casablanca, Morocco
 * 🖥️  See my portfolio at [MyPortfolio](http://haithamdev.vercel.app/)
 * ✉️  You can contact me at [snowed29@gmail.com](mailto:snowed29@gmail.com)
-* 🧠  I'm learning Next js
+* 🧠  I'm learning Nest js
 
 ### Skills
 
